@@ -23,9 +23,11 @@ a=([1,3],[2,5])
 b=([5,-3])
 sol=np.linalg.inv(a).dot(b)
 print(sol)
+```
+
 ## Output:
 ![eig](output.png)
-```
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
